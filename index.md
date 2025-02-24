@@ -4,5 +4,6 @@
 ``` python
 var myVar = "Hello, world!"
 ```
-
+- [ ] Personalise my profile
+- [X] Revise GitHub and Google Colab
 
